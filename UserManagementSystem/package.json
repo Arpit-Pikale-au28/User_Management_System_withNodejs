@@ -4,7 +4,7 @@
   "description": "User Management System Backend Project with nodejs,mysql,handlebars",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+    "start": "node app.js"
   },
   "author": "Arpit Pikale",
   "license": "ISC",
